@@ -1,0 +1,5 @@
+{
+  "name": "Japan Place Name Extractor",
+  "description": "An application to extract, enrich, and validate Japanese place names from free text. It uses AI to find place details, addresses, phone numbers, and Mapcodes, and provides tools for editing and exporting the results.",
+  "requestFramePermissions": []
+}
